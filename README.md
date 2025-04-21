@@ -11,7 +11,7 @@ A simple command-line tool to create text files with custom content, built using
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/File-creator-nodejs.git
-   cd File-creator-nodejs
+   cd CLI-FileCreator-Nodejs
 2. Run the script:
    ```bash
       node  FileCreator.js
